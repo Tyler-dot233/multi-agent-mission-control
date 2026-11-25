@@ -1,5 +1,7 @@
 # 多智能体监控台（Multi-Agent Mission Control）
 
+![多智能体监控台赛博风封面](design/social-preview.png)
+
 赛博科幻风的实时多智能体监控台：Three.js 3D「神经星环」信息流 + 工作前确认审批流，监测本机 AI 智能体工作进程。
 
 ## 功能
