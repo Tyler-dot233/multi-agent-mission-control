@@ -29,9 +29,9 @@
 
 | 平台 | 格式 | 下载 |
 | --- | --- | --- |
-| macOS Apple Silicon | DMG 安装镜像 | [多智能体监控台-1.0.0-arm64.dmg](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/download/v1.0.0/多智能体监控台-1.0.0-arm64.dmg) |
-| macOS Apple Silicon | ZIP 压缩包 | [多智能体监控台-1.0.0-arm64-mac.zip](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/download/v1.0.0/多智能体监控台-1.0.0-arm64-mac.zip) |
-| Windows x64 | 免安装 ZIP | [多智能体监控台-1.0.0-win.zip](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/download/v1.0.0/多智能体监控台-1.0.0-win.zip) |
+| macOS Apple Silicon | DMG 安装镜像 | [多智能体监控台-1.0.0-arm64.dmg](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/download/v1.0.0/multi-agent-mission-control-1.0.0-arm64.dmg) |
+| macOS Apple Silicon | ZIP 压缩包 | [多智能体监控台-1.0.0-arm64-mac.zip](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/download/v1.0.0/multi-agent-mission-control-1.0.0-arm64-mac.zip) |
+| Windows x64 | 免安装 ZIP | [多智能体监控台-1.0.0-win.zip](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/download/v1.0.0/multi-agent-mission-control-1.0.0-win.zip) |
 
 完整更新说明与全部文件见 [v1.0.0 Release](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/tag/v1.0.0)。本项目采用 [MIT License](LICENSE)，允许自由使用、修改和分发，但请保留原作者版权声明。
 
