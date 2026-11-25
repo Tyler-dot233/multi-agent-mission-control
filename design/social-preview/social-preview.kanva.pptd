@@ -1,0 +1,16 @@
+version: v2
+title: 多智能体监控台 · GitHub Social Preview
+size: [1280, 640]
+customFonts:
+  - family: Orbitron
+    src: "https://fonts.googleapis.com/css2?family=Orbitron"
+theme:
+  colors:
+    ink: "#02070F"
+    white: "#EAFBFC"
+    cyan: "#65D9E5"
+    muted: "#A9C0C8"
+    dim: "#6D939F"
+    amber: "#E8AA5B"
+pages:
+  - pages/1_cover.page

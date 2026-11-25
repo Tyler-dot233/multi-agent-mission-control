@@ -1,0 +1,139 @@
+pageType: cover
+background:
+  type: image
+  src: media/neural-space.png
+  fit: {mode: fill}
+elements:
+  - elementId: top-rule
+    elementType: line
+    bounds: [64, 62, 118, 1]
+    viewBox: [118, 1]
+    points: "0,0 118,0"
+    curve: sharp
+    border: {style: solid, width: 2, color: "$cyan"}
+  - elementId: top-tick
+    elementType: line
+    bounds: [190, 62, 28, 1]
+    viewBox: [28, 1]
+    points: "0,0 28,0"
+    curve: sharp
+    border: {style: solid, width: 2, color: "$amber"}
+  - elementId: eyebrow
+    elementType: text
+    bounds: [64, 88, 560, 30]
+    content:
+      text: MULTI-AGENT / MISSION CONTROL
+      fontFamily: Orbitron
+      fontSize: 17
+      color: "$cyan"
+      letterSpacing: 2.6
+      wrap: false
+      align: [left, middle]
+  - elementId: main-title
+    elementType: text
+    bounds: [60, 174, 590, 92]
+    content:
+      text: 多智能体监控台
+      fontFamily: MiSans
+      fontSize: 64
+      bold: true
+      color: "$white"
+      letterSpacing: 1
+      wrap: false
+      align: [left, middle]
+      shadow: {blur: 16, color: "#65D9E522", offset: [0, 0]}
+  - elementId: english-title
+    elementType: text
+    bounds: [64, 280, 590, 38]
+    content:
+      text: MULTI-AGENT MISSION CONTROL
+      fontFamily: Orbitron
+      fontSize: 24
+      color: "$white"
+      letterSpacing: 1.7
+      wrap: false
+      align: [left, middle]
+  - elementId: description-rule
+    elementType: line
+    bounds: [64, 346, 34, 1]
+    viewBox: [34, 1]
+    points: "0,0 34,0"
+    curve: sharp
+    border: {style: solid, width: 3, color: "$amber"}
+  - elementId: description
+    elementType: text
+    bounds: [114, 331, 520, 34]
+    content:
+      text: 跨平台 AI 进程监测与 3D 信息流可视化
+      fontFamily: MiSans
+      fontSize: 17
+      color: "$muted"
+      letterSpacing: 0.8
+      wrap: false
+      align: [left, middle]
+  - elementId: version-marker
+    elementType: shape
+    bounds: [64, 484, 7, 7]
+    shapeName: rect
+    fill: {type: solid, color: "$cyan"}
+  - elementId: version
+    elementType: text
+    bounds: [84, 471, 320, 32]
+    content:
+      text: OPEN SOURCE / V1.0.0
+      fontFamily: Orbitron
+      fontSize: 13
+      color: "$muted"
+      letterSpacing: 1.8
+      wrap: false
+      align: [left, middle]
+  - elementId: footer-rule
+    elementType: line
+    bounds: [64, 538, 508, 1]
+    viewBox: [508, 1]
+    points: "0,0 508,0"
+    curve: sharp
+    border: {style: solid, width: 1, color: "#65D9E533"}
+  - elementId: footer
+    elementType: text
+    bounds: [64, 556, 570, 30]
+    content:
+      text: MACOS + WINDOWS   •   THREE.JS   •   MIT LICENSE
+      fontFamily: Orbitron
+      fontSize: 13
+      color: "$dim"
+      letterSpacing: 1.1
+      wrap: false
+      align: [left, middle]
+  - elementId: ring-label-rule
+    elementType: line
+    bounds: [1034, 572, 182, 1]
+    viewBox: [182, 1]
+    points: "0,0 182,0"
+    curve: sharp
+    border: {style: solid, width: 1, color: "#65D9E555"}
+  - elementId: ring-label
+    elementType: text
+    bounds: [944, 586, 272, 24]
+    content:
+      text: 3D NEURAL RING / LIVE
+      fontFamily: Orbitron
+      fontSize: 13
+      color: "$dim"
+      letterSpacing: 1.2
+      wrap: false
+      align: [right, middle]
+  - elementId: corner-horizontal
+    elementType: line
+    bounds: [1196, 40, 20, 1]
+    viewBox: [20, 1]
+    points: "0,0 20,0"
+    curve: sharp
+    border: {style: solid, width: 1, color: "#65D9E577"}
+  - elementId: corner-vertical
+    elementType: line
+    bounds: [1216, 40, 1, 20]
+    viewBox: [1, 20]
+    points: "0,0 0,20"
+    curve: sharp
+    border: {style: solid, width: 1, color: "#65D9E577"}
