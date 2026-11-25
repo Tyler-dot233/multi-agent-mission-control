@@ -23,6 +23,18 @@
 - **进程管控**：可对 AI 进程发送终止信号（带二次确认；接口只允许终止命中 AI 特征库的进程，防止误杀系统进程）
 - **事件日志**：智能体出现 / 退出 / 授权 / 拒绝 / 终止全程留痕
 
+## 下载 v1.0.0
+
+无需安装 Node.js，可直接下载对应平台的桌面安装包：
+
+| 平台 | 格式 | 下载 |
+| --- | --- | --- |
+| macOS Apple Silicon | DMG 安装镜像 | [多智能体监控台-1.0.0-arm64.dmg](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/download/v1.0.0/多智能体监控台-1.0.0-arm64.dmg) |
+| macOS Apple Silicon | ZIP 压缩包 | [多智能体监控台-1.0.0-arm64-mac.zip](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/download/v1.0.0/多智能体监控台-1.0.0-arm64-mac.zip) |
+| Windows x64 | 免安装 ZIP | [多智能体监控台-1.0.0-win.zip](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/download/v1.0.0/多智能体监控台-1.0.0-win.zip) |
+
+完整更新说明与全部文件见 [v1.0.0 Release](https://github.com/Tyler-dot233/multi-agent-mission-control/releases/tag/v1.0.0)。本项目采用 [MIT License](LICENSE)，允许自由使用、修改和分发，但请保留原作者版权声明。
+
 ## 运行（Windows / macOS 通用）
 
 需要 Node.js ≥ 18。
