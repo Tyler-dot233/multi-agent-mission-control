@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Desktop build artifacts
+release/
+
+# Environment files and local credentials
+.env
+.env.*
+!.env.example
+
+# Test and diagnostic output
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+mini-*.jpg
